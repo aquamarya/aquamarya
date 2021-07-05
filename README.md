@@ -13,7 +13,7 @@
 | [Cat-Energy](https://github.com/aquamarya/871783-cat-energy-16) | Adaptive e-commerce site of food for the cats. Flexbox layout grid, catalogue of products, interactive map, contacts form | HTML, SCSS, JavaScript (ES5), GULP, WEBPACK, adaptive, BEM | [Интернет-магазин "Cat-Energy"](https://github.com/aquamarya/871783-cat-energy-16) |
 | [Kekstagram](https://github.com/aquamarya/871783-kekstagram-21) |	Service for downloading and viewing photos and use CSS-filters on them | JavaScript (ES5) | [Сервис для загрузки и просмотра фото Kekstagram](https://aquamarya.github.io/871783-kekstagram-21/) |
 
-- <!---
+<!---
 ### 🌱 В данный момент изучаю:
 Vue, Jest
 --->
